@@ -4,5 +4,5 @@
 /**
  * 
  */
-module SCM {
+module nhan {
 }

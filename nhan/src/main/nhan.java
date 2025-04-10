@@ -1,7 +1,7 @@
 package main;
 
-public class Tru {
+public class nhan {
 	public static double tinh(double a, double b) {
-		return a - b;
+		return a * b;
 	}
 }
